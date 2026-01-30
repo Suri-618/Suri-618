@@ -2,10 +2,10 @@
 
 ## Software Developer | AI & ML Undergraduate | Open-Source Contributor
 
-📍 Vijayawada, India
-📧 Email: [suri86438@gmail.com](mailto:suri86438@gmail.com)
-🔗 GitHub: [https://github.com/Suri-618](https://github.com/Suri-618)
-🔗 LinkedIn: [https://linkedin.com/in/surendra-kumar-202b76337](https://linkedin.com/in/surendra-kumar-202b76337)
+**📍 Vijayawada, India**
+**📧 Email: [suri86438@gmail.com](mailto:suri86438@gmail.com)**
+**🔗 GitHub: [https://github.com/Suri-618](https://github.com/Suri-618)**
+**🔗 LinkedIn: [https://linkedin.com/in/surendra-kumar-202b76337](https://linkedin.com/in/surendra-kumar-202b76337)**
 
 ---
 
