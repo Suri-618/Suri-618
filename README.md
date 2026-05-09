@@ -37,31 +37,6 @@ Data Structures & Algorithms, Operating Systems (Linux), Object‑Oriented Progr
 
 ---
 
-## Projects
-
-### Rock Paper Scissors Game | Python
-
-* Developed a console‑based interactive game using Python
-* Implemented clean control flow and input validation to avoid runtime errors
-* Tested with 200+ interactions achieving stable execution
-* Demonstrates fundamentals of **Python programming, logic building, and testing**
-
-🔗 Repository: [https://github.com/Suri-618/ROCK_PAPER_SCISSORS_GAME](https://github.com/Suri-618/ROCK_PAPER_SCISSORS_GAME)
-
----
-
-### Library Seat Reservation System | HTML, JavaScript, TypeScript, MongoDB
-
-* Built a web‑based seat reservation system with real‑time seat availability
-* Implemented booking validation logic to prevent seat conflicts
-* Integrated MongoDB for storing user data, seat status, and reservation history
-* Optimized database queries to support concurrent users
-* Demonstrates **full‑stack development, database integration, and problem solving**
-
-🔗 Repository: [https://github.com/DangerRohit84/Library-Seat-Reservation-System](https://github.com/DangerRohit84/Library-Seat-Reservation-System)
-
----
-
 ## Experience & Practical Exposure
 
 * Designed and implemented core **data structures and algorithms** in Python for academic projects
